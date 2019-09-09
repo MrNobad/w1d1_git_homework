@@ -1,0 +1,5 @@
+Clear
+Opaque
+Iridescent
+Streaky
+Textured
