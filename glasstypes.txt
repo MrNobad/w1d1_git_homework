@@ -3,3 +3,5 @@ Opaque
 Iridescent
 Streaky
 Textured
+Spectrum
+Weissmach
